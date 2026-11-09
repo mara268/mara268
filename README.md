@@ -119,3 +119,9 @@ Tenho interesse em desenvolvimento web, banco de dados, engenharia de software e
 <br/>
 
 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mara268/mara268/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mara268/mara268/output/github-snake.svg" />
+  <img alt="Cobrinha comendo minhas contribuições" src="https://raw.githubusercontent.com/mara268/mara268/output/github-snake.svg" />
+</picture>
